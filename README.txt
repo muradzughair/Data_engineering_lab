@@ -12,8 +12,15 @@ A small online shop sends daily order data as a CSV file. A manager wants a reli
 ## Local data check
 Before reporting, record at least two issues you found in the CSV and what you recommend doing with each.
 
-1. Issue and recommendation:
-2. Issue and recommendation:
+1. Issue and recommendation: there is a duplicated values 0-1006
+2. Issue and recommendation: there is a null value in costumer city for order o-1004
 
 ## What the pipeline does
 Complete after the lab: In one sentence, describe how the data moves from the source to a useful output.
+
+
+Question 1: What problems could make the report inaccurate?
+
+-Bad data: outdated, biased, incomplete, or unreliable sources.
+-Small or unrepresentative samples: results don’t apply to the whole population.
+-Calculation errors: wrong formulas, double counting, typos.
