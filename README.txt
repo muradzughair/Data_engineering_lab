@@ -23,4 +23,4 @@ Question 1: What problems could make the report inaccurate?
 
 -Bad data: outdated, biased, incomplete, or unreliable sources.
 -Small or unrepresentative samples: results don’t apply to the whole population.
--Calculation errors: wrong formulas, double counting, typos.
+-Calculation errors: wrong formulas, double counting, typos...
